@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/summers/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_f660652b6aba7cec30d63964924fd7f8fd76826d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_36f04cfa806edd5eb77204b9dbe7469d364bb683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_bc1f9404557b7b131ba59d5289b76f52a02b65d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.4/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_311189c0e4e50e2948c8fbfe1e244e22fa1f6895.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/Programs/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_83836284603b08b535d688be9853e921ca6e39f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_dc1faeea3306028ac08a460c20d1dff87a4d493d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_03ed6afc37067c1014c519058418edbae20aa890.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_c2a6e61c288789f9162c3cb7653940e4d037ce0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_80822ff60f5234fa597f53471c5e36b1d56a44d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_c3737f55a4304be32c8362d2f7312a5ebd041715.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_c6100abbdb9eaf5848d0b75589a2fb3bd2c4ef23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_ef3c6ba51f87f7f17a90975a145de06abf81f2d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_03ecd79184d227817264907ea703b45708c9293b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_fccffd188ddd0e73d6f4150ca4d8b7bb8c3db44f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_7508c134b5ccab0f10f695a73391d436d0f9723f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_302c73b510755b635211fc67f78ce6dfcdc055d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_5fa6724ae120a85b8a7599ba475f1ad400519973.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_7632e0e27b6b13c16463e9d95e4f03d39e4ea292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_884c22161046d9f81aa5857c82f3bacb23a8c60e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_56f14bae7326fee2d36f81cafdbd4e533157c97b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_d68bb03357f1ba8129bc50dea641c5f446b0bd1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="28964a93b5eafbe660a5b51e5964d2e66aa45395">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.43.4_6345ddb219e5a66638dfe921b735c22e89e66a0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/summers/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/summers/Projects/keycloak-react-test/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_79a8fde30ec3fd2d1844d10cd9201ff741e1bd6b.jar" />
+    </item>
+
+</items>
